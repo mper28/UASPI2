@@ -1,0 +1,4 @@
+Category=Pendidikan
+Post=Profile
+member=hubungi saya
+comment = pengalaman kerja
